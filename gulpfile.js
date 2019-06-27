@@ -12,7 +12,7 @@ const autoprefixer = require( 'gulp-autoprefixer' );
 
 
 let isDevelopment = false;
-let namePage = 'gulp_test';
+let namePage = 'gulp_test';  //название папки для продакшена
 
 let _path_ = {
     css: [
