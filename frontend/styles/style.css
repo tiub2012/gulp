@@ -1,0 +1,13 @@
+img {
+    display: block;
+    max-width: 300px;
+    margin: 30px auto;
+}
+
+h1 {
+    font-size: 50px;
+    justify-content: center;
+    color: brown;
+    display: flex;
+    font-family: akrobat-regular;
+}
